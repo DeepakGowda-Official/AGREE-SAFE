@@ -65,12 +65,12 @@ Most AI-based summarization tools **compress large documents into predefined for
 ## 📸 Screenshots  
 Here are some snapshots of **AgreeSafe in action**:  
 
-![AgreeSafe Popup]  
+
 *Popup displaying detected high-risk clauses* 
 ![image](https://github.com/user-attachments/assets/9d3aa195-3999-4ef1-a9bd-a6a2a072bcbd)
 
 
-![Highlighted Risks](your-image-link-here)  
+ 
 *Terms & Conditions with highlighted risky sentences*  
 ![image](https://github.com/user-attachments/assets/0df9b5a7-92dc-4538-9fd6-1e35735d48e7)
 

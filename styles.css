@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 15px;
+  width: 350px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+}
+
+#critical-terms-list {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #00bcd4;
+  color: white;
+  border: none;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0097a7;
+}
